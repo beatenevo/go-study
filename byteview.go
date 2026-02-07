@@ -1,5 +1,6 @@
 package geecache
 
+// 不可变
 type ByteView struct {
 	b []byte
 }
